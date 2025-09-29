@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @glovkwam [KwameGlover.Dev](https://kwameglover.dev/)
-- 
+- 👋 Hi, I’m @glovkwam [KwameGlover.Dev](https://kwameglover.dev/) 
 - 👀 I’m interested in making Youtube videos and expanding my knowledge of front end web development...
 - Subscribe to my Youtube Channel here: https://www.youtube.com/@CreatorKwam
 - 🌱 I’m currently learning p5js and graphic design...
